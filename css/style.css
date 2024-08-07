@@ -352,10 +352,14 @@ section {
     padding: 0;
 }
 
+/* Attribute to change the size of the Name logo on Nav */
 #logo img {
-    max-height: 22px;
+    max-height: 150px;
     vertical-align: middle;
-    margin-right: 15px;
+    margin-right: 150px;
+    align-items: center; /* Adjusts vertical alignment within flex container */
+    padding-bottom: 70px;
+
 }
 
 #navigation-logo {
