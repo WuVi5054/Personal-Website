@@ -303,6 +303,10 @@ section {
     width: 38.2%;
 }
 
+.col-40 {
+    width: 40%;
+}
+
 /* --------- 2.1 Header --------- */
 
 #header {
@@ -2336,6 +2340,28 @@ blockquote {
 
 }
 
+
+.profile {    
+    /* width: 110px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    height: 110px;
+    border-radius: 100%; /* This makes the image a circle */
+    /* object-fit: cover;  */
+    margin-top: 20px;
+    position: relative; 
+    display: inline-block;
+    width: 175px; 
+    height: 175px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.profile img { 
+    width: auto; 
+    height: auto;
+    
+}
 
 
 
